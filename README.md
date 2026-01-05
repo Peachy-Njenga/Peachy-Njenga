@@ -1,8 +1,5 @@
 <h1 align="center">Hi 👋, I'm Peaches</h1>
-<h3 align="center">An aspiring UI/UX designer and frontend developer from Kenya</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=peachy-njenga&label=Profile%20views&color=0e75b6&style=flat" alt="peachy-njenga" /> </p>
-
+<h3 align="center">An aspiring UI/UX designer</h3>
 
 - 🔭 I’m currently working on UI/UX design and happiness.
 
@@ -12,12 +9,9 @@
 
 - 📫 How to reach me **peacheswagithi16@gmail.com**
 
-- ⚡ 
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/peaches-njenga" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="peaches-njenga" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/peachy-njenga" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="peachy-njenga" height="30" width="40" /></a>
 </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=peachy-njenga&show_icons=true&theme=dark&locale=en&layout=compact" alt="peachy-njenga" /></p>
