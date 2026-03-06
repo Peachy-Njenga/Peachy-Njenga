@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Peaches</h1>
 <h3 align="center">An aspiring UI/UX designer</h3>
 
-- 🔭 I’m currently working on UI/UX design and happiness.
+- 🔭 I’m currently working on UI/UX design.
 
 - 🌱 I’m currently learning **Computer science in JKUAT**
 
